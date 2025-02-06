@@ -4,7 +4,7 @@ An application used to generate free stock photos based on https://api.unsplash.
 
 ## Project Screen Shot
 
-![Alt text](./assets/desktop.png?raw=true)
+![Alt text](./assets/photos.png?raw=true)
 
 ## Installation and Setup Instructions
 
